@@ -1,9 +1,9 @@
 <?php 
-$name     = 'Ivy';
+$name     = 'Belal';
 $greeting = 'Hello';
 
 if ($name !== '') {
-    $greeting = 'Welcome back, ' . $name;
+    $greeting = 'Welcome back, ' . $name . ', ' . 'How are you?!';
 }
 ?>
 <!DOCTYPE html>
