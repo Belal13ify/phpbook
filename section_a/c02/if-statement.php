@@ -3,7 +3,7 @@ $name     = 'Belal';
 $greeting = 'Hello';
 
 if ($name !== '') {
-    $greeting = 'Welcome back, ' . $name . ', ' . 'How are you?!';
+    $greeting = 'Welcome back, ' . $name . ', ' . 'How are you?!, Hope are you doing well';
 }
 ?>
 <!DOCTYPE html>
